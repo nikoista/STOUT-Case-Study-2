@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
  
 """
-@author: Nikolaos Istatiadis
+@author: nikoista
 """
  
 # Basic Numpy , Pandas , Matplotlib Libraries
