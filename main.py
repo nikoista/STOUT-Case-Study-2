@@ -22,9 +22,7 @@ path = 'C:/Users/__________'
 dataset_path = 'C:/Users/__________'
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#
  
-
-path = 'C:/Users/nikos/DIPLOMATIKI/Case_2/'
-dataset_path = 'C:/Users/nikos/DIPLOMATIKI/Case_2/Dataset/'
+ 
 
 ###############################################################################
 
